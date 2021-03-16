@@ -43,10 +43,10 @@
     "posts_per_page": 8,
     "image_sizes": {
       "xxs": {
-	"width": 120
+        "width": 120
       },
       "xs": {
-	"width": 180
+        "width": 180
       },
       "s": {
         "width": 320
